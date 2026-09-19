@@ -4,6 +4,6 @@ Version **de démonstration** (données 100 % fictives, stockées uniquement dan
 
 Codes de démonstration : **Docteur `2580`** · **Secrétaire `1234`**.
 
-Nouveautés : exports PDF / Excel, certificat médical, filtres avancés, date de naissance avec âge automatique, enfants, et **Joy**, la secrétaire intelligente.
+Nouveautés : section **Tâches** enrichie (catégories, patient lié, sous-tâches, saisie intelligente, suggestions), exports PDF / Excel, certificat médical, filtres avancés, date de naissance avec âge automatique, enfants, et **Joy**, la secrétaire intelligente.
 
 Ce dépôt ne contient que le site compilé. Le code source est privé.
